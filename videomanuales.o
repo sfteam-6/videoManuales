@@ -10,7 +10,25 @@
 <buffer_kb>30000</buffer_kb>
 </channel>
 
-  
+ <channel>       
+<title><![CDATA[Ordenas listas de canales 6.1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="">]]></description>
+<playlist_url><![CDATA[https://archive.org/download/PrimeraInstalacionSfteam61/OrdenarListaDeCanales.mp4]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+<channel>       
+<title><![CDATA[Picones en listas de canales 6.1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="">]]></description>
+<playlist_url><![CDATA[https://archive.org/download/PrimeraInstalacionSfteam61/PiconesEnLaListaDeCanales.mp4]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+ 
+ 
+ 
+ 
 <prev_page_url text="CH- ATRAS"><![CDATA[videomanuales.xml]]></prev_page_url>
 
 </items>
