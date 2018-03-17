@@ -27,11 +27,38 @@
 <buffer_kb>30000</buffer_kb>
 </channel>  
   
+<channel>
+<title><![CDATA[Configuracion Epgimport Sfteam 6.1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4a8297688acba964c363671f3df8dd02.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/ConfiguracinEpgimport.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+ 
+ <channel>
+<title><![CDATA[Manual copia seguridad Sfteam 6.1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4a8297688acba964c363671f3df8dd02.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/ManualCopiaSeguridad.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel>  
+ 
+<channel>
+<title><![CDATA[Ajustar skin Sfteam 6.1]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<img src="http://hdfull.tv/tthumb/172x265/show_4a8297688acba964c363671f3df8dd02.jpg"/>]]></description>
+<stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/AjustarSkinSfteam61.mp4]]></stream_url>
+<buffer_kb>30000</buffer_kb>
+</channel> 
+  
+  
   
  
- 
- 
- 
+  
+  
+  
+  
+  
 <prev_page_url text="CH- ATRAS"><![CDATA[videomanuales.xml]]></prev_page_url>
 
 </items>
