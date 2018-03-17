@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[Menu De Inicio De Video Manuales]]></playlist_name>
+  
+  <channel>       
+<title><![CDATA[CANALES DE CINE ONLINE]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[<img src="http://www.alfabetajuega.com/multimedia/imagenes/201607/156402.alfabetajuega-netflix-120716.jpg">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/losperdidos1212/mirar/master/movi.xml]]></playlist_url>
+<buffer_kb>30000</buffer_kb>
+</channel>
+
+  
+<prev_page_url text="CH- ATRAS"><![CDATA[videomanuales.xml]]></prev_page_url>
+
+</items>
