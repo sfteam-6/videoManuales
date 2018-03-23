@@ -6,7 +6,7 @@
 <channel>
 <title><![CDATA[Presentacion Sfteam ]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/presentacion.png"/>]]></description>
+<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/presentar.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/2018-03-2300.12.34.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -16,7 +16,7 @@
 <channel>
 <title><![CDATA[Primera instalacion Sfteam 6.1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="https://github.com/sfteam-6/videoManuales/blob/master/primera%20instalacion.jpg?raw=true"/>]]></description>
+<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/instalacion.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/primera%20instalacion%20sfteam%206%201.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -24,7 +24,7 @@
 <channel>
 <title><![CDATA[Ordenar listas canales Sfteam 6.1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/movimiento.png"/>]]></description>
+<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/lista.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/ordenar%20%20lista%20de%20canales.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
@@ -32,7 +32,7 @@
 <channel>
 <title><![CDATA[Picones listas de canales Sfteam 6.1]]></title>
 <logo_20x20><![CDATA[]]></logo_20x20>
-<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/picones1.png"/>]]></description>
+<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/picones.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/Picones%20en%20la%20lista%20de%20canales.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>  
@@ -56,7 +56,7 @@
 <channel>
 <title><![CDATA[Ajustar skin Sfteam 6.1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/skin.png"/>]]></description>
+<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/ajustar.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/AjustarSkinSfteam61.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
