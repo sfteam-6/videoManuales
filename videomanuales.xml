@@ -8,7 +8,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/presentar.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/2018-03-2300.12.34.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
+<buffer_kb>50000</buffer_kb>
 </channel>
   
    
@@ -18,7 +18,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/instalacion.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/primera%20instalacion%20sfteam%206%201.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
+<buffer_kb>50000</buffer_kb>
 </channel>
  
 <channel>
@@ -26,7 +26,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/lista.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/ordenar%20%20lista%20de%20canales.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
+<buffer_kb>50000</buffer_kb>
 </channel>
 
 <channel>
@@ -34,7 +34,7 @@
 <logo_20x20><![CDATA[]]></logo_20x20>
 <description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/picones.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/Picones%20en%20la%20lista%20de%20canales.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
+<buffer_kb>50000</buffer_kb>
 </channel>  
   
 <channel>
@@ -42,7 +42,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/epg.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/ConfiguracinEpgimport.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
+<buffer_kb>50000</buffer_kb>
 </channel>  
  
 <channel>
@@ -50,7 +50,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/copia.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/ManualCopiaSeguridad.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
+<buffer_kb>50000</buffer_kb>
 </channel>  
  
 <channel>
@@ -58,7 +58,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/ajustar.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/AjustarSkinSfteam61.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
+<buffer_kb>50000</buffer_kb>
 </channel> 
   
 <channel>
@@ -66,7 +66,7 @@
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/tunerserver.png"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/videoplayback.mp4]]></stream_url>
-<buffer_kb>30000</buffer_kb>
+<buffer_kb>50000</buffer_kb>
 </channel> 
   
  
