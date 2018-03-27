@@ -32,7 +32,7 @@
 <channel>
 <title><![CDATA[Picones listas de canales Sfteam 6.1]]></title>
 <logo_20x20><![CDATA[]]></logo_20x20>
-<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/picones.png"/>]]></description>
+<description><![CDATA[<img src="https://github.com/sfteam-6/upload/blob/master/picones.png?raw=true"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/Picones%20en%20la%20lista%20de%20canales.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>  
@@ -40,7 +40,7 @@
 <channel>
 <title><![CDATA[Configuracion Epgimport Sfteam 6.1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/epg.png"/>]]></description>
+<description><![CDATA[<img src="https://github.com/sfteam-6/upload/blob/master/epg.png?raw=true"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/ConfiguracinEpgimport.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>  
@@ -48,7 +48,7 @@
 <channel>
 <title><![CDATA[Manual copia seguridad Sfteam 6.1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/copia.png"/>]]></description>
+<description><![CDATA[<img src="https://github.com/sfteam-6/upload/blob/master/copia.png?raw=true"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/ManualCopiaSeguridad.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel>  
@@ -56,7 +56,7 @@
 <channel>
 <title><![CDATA[Ajustar skin Sfteam 6.1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/ajustar.png"/>]]></description>
+<description><![CDATA[<img src="https://github.com/sfteam-6/upload/blob/master/ajustar.png?raw=true"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/AjustarSkinSfteam61.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
@@ -64,7 +64,7 @@
 <channel>
 <title><![CDATA[Manual tuner server Sfteam 6.1]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://feed-sfteam.ddns.net/feeds/sfteam-6.1/fotos/tunerserver.png"/>]]></description>
+<description><![CDATA[<img src="https://github.com/sfteam-6/upload/blob/master/tunerserver.png?raw=true"/>]]></description>
 <stream_url><![CDATA[https://archive.org/download/OrdenarListaDeCanales/videoplayback.mp4]]></stream_url>
 <buffer_kb>30000</buffer_kb>
 </channel> 
